@@ -12,6 +12,7 @@ if ($conn->connect_error) {
    die($conn->connect_error);
 }
 
+
  
  
  // Close the connection when done
